@@ -1,1 +1,30 @@
+h1 {
+	color: red;
+	font-family: algerian;
+}
+h2 {
+	color: blueviolet;
+	font-family: algerian;
 
+}
+ul {
+	display: 
+}
+ul li {
+
+}
+ul li a{
+	display: block;
+
+}
+ul li a:hover {
+	color: red;
+}
+a:hover {
+	color: red;
+	padding: 0 10px;
+
+}
+p {
+	font-style: italic;
+}
