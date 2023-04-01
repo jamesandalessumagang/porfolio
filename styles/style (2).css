@@ -1,0 +1,62 @@
+* {
+	padding: 00px;
+	margin: 0px;
+}
+body {
+	background-color: white;
+	background-color: maroon;
+}
+.wifi {
+	margin: 0 auto;
+	width: 1000px;
+	background-color: #eee;
+	height: 1500px;
+	padding: 0 100px;
+	background-color: darkred;
+}
+h1 {
+	text-align: center;
+	letter-spacing: 10px;
+	font-size: 50px;
+	text-decoration: underline;
+}
+.wewew {
+	text-decoration: none	;
+}
+nav {
+	margin: 0px;
+	padding: 0 auto;
+}
+img {
+	height: 300px;
+	width: 300px;
+	clip-path: circle(50% at 50% 50%);
+	transition: 2.5s;
+
+}
+img:hover{
+	transform: scale(1.1);
+
+}
+p {
+	font-size: 30px;
+	font-style: italic;
+	color: black;
+}
+.didi {
+	padding-left: 600px;
+
+
+}
+.fa-house {
+	color: black;
+	transform: scale(1.1);
+	transition: 2.5s;
+}.images {
+	height: 50px;
+	width: 50px;
+}
+.images:hover {
+	transition: 1.5s;
+	transform: scale(2.1);
+}

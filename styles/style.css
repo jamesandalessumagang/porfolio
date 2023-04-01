@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+.main {
+    color: orange;
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/mary.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    margin-right: 150px;
+    margin-left: 150px;
+    height: 100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: 30px;
+}
+
+.anchor {
+    margin-left: 150px ;
+    display: flex;
+    color: orange;
+    justify-content:space-between;
+    align-items: center;
+    text-decoration: none;
+}
+
+.anchors {
+    display: flex;
+    color: orange;
+    justify-content:space-between;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.9rem 1.8rem;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    border: 3px solid orange;
+    cursor: pointer;
+    position: relative;
+    background-color: transparent;
+    text-decoration: none;
+    overflow: hidden;
+    z-index: 1;
+    font-family: inherit;
+}
+
+.btn::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    transform: translateX(-100%);
+    transition: all .3s;
+    z-index: -1;
+}
+
+.btn:hover::before {
+    transform: translateX(0);
+}
+
+.nawngnirobert {
+    width: 25%;
+    margin-left: 200px;
+    border-radius: 50%;
+}

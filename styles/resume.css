@@ -1,0 +1,103 @@
+* {
+	margin: 0px;
+	padding: 10px;
+}
+h1 {
+	text-align: center;
+	letter-spacing: 10px;
+	padding: 0px;
+	font-size: 40px;
+	text-decoration: underline;
+}
+body {
+	background-color: gray;
+}
+img {
+	height: 200px;
+	width: 200px;
+	padding: 0px;
+	padding-right: 0px;
+	clip-path: circle(50% at 50% 50%);
+}
+h3 {
+	padding: 0px;
+	font-size:30px;
+}
+.wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	background-color: #eee;
+	height: 1150px;
+	padding: 0 30px;
+}
+nav {
+	margin: 0px;
+	padding: 0 auto;
+}
+ul {
+	padding: 0px;
+	text-align: 800px;
+}
+ul li {
+	padding: 0;
+	list-style: none;
+	font-size: 20px;
+}
+.wew {
+	font-size: 20px;
+}
+.jejemon {
+	padding: 0px;
+}
+.ehm {	
+	padding: 0 90px;
+}
+.rowr {
+	display: inline-block;
+	list-style: none;
+}
+.bords {
+	display: inline-block;
+	padding: 0 300px;
+	list-style: none;
+}
+ul li {
+	list-style: none;
+}
+.toper {
+	padding: 0 30px;
+}
+.fa-square-facebook {
+	color: blue;
+	height: 30px;
+	width: 35px;
+}
+.fa-envelope {
+	color: maroon;
+	height: 30px;
+	width: 35px;
+}
+.fa-youtube{
+	color: red;
+	height: 30px;
+	width: 35px;
+}
+.fa-phone {
+	color: black;
+	height: 30px;
+	width: 35px;
+}
+i{
+transition: .6s;
+color: silver;
+}
+
+i:hover{
+transform: scale(2.1);
+}
+hr {
+}
+p {
+	font-size: 20px;
+	font-style: italic;
+}
