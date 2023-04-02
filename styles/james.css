@@ -1,1 +1,77 @@
+.profilepic{
+    height: 250;
+    width: 250;
+    
+}
+p{
+    color: green;
+    font-weight: 1000;
+}
+.Objective{
+    font-weight: bold;
+    text-decoration: none;
+    color:wheat;
+    font-weight: bold;
+    background-color: blue;
+    margin: 30px 0;
+    border-radius: 5;
+    padding: 10px 18px;
+}
+img{
+    height: 100;
+    width: 100;
+}
+.h1{
+    font-weight: bold;
+    text-decoration: none;
+    color:wheat;
+    font-weight: bold;
+    background-color: blueviolet;
+    margin: 30px 0;
+    border-radius: 5;
+    padding: 10px 18px;
+}
+.h2{
+    font-weight: bold;
+    text-decoration: none;
+    color:wheat;
+    font-weight: bold;
+    background-color: red;
+    margin: 30px 0;
+    border-radius: 5;
+    padding: 10px 18px;
 
+}
+.name{
+    color: sandybrown;
+}
+.birth{
+    color: rgb(173, 73, 11);
+}
+.place{
+    color: darkmagenta;
+}
+.hobby{
+    color:gray;
+}
+.hehe{
+    color: teal;
+}
+body{
+    background-size: cover;
+}
+.con{
+    color: aquamarine;
+}
+.draw{
+    color: cyan;
+}
+.cons{
+    color: deeppink;
+}
+.smaw{
+    color: darksalmon;
+}
+.Aboutjeyms{
+    color: mediumorchid;
+}
